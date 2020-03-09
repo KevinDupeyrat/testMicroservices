@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ms3
+  data:
+    mongodb:
+      uri: mongodb://localhost/test
+
+server:
+  port: 9003

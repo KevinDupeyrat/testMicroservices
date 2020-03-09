@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.microservice.ms2.config.ApplicationProperties",
+      "sourceType": "com.microservice.ms2.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
