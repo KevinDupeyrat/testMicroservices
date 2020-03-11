@@ -1,9 +1,13 @@
 spring:
   application:
-    name: ms2
-  data:
-    mongodb:
-      uri: mongodb://localhost/test
-
-server:
-  port: 9002
+    name: microservice-ms2
+  cloud:
+    config:
+      uri: http://localhost:9101
+    
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - "*"
