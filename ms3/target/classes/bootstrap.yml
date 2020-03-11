@@ -5,9 +5,4 @@ spring:
     config:
       uri: http://localhost:9101
     
-management:
-  endpoints:
-    web:
-      exposure:
-        include:
-        - "*"
+

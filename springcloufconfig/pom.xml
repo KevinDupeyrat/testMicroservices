@@ -12,7 +12,7 @@
 	<artifactId>springcloufconfig</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springcloufconfig</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Cloud Config</description>
 
 	<properties>
 		<java.version>11</java.version>
